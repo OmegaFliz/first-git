@@ -1,3 +1,7 @@
 nav{
     background: red;
 }
+
+a:hover{
+    text-decoration: none;
+}
